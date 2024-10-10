@@ -18,5 +18,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Telgou&show_icons=true&locale=en" alt="Telgou" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Telgou&" alt="Telgou" /></p>
-
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
