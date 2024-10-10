@@ -1,5 +1,3 @@
-# Telgou
- 
 <h1 align="center">Hey 👋 I Am</h1>
 <h3 align="center">A passionate Fullstack developer</h3>
 
