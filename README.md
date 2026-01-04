@@ -15,5 +15,8 @@
   <img src="https://telgou-github-readme-stats.vercel.app/api/top-langs/?username=Telgou&layout=compact" height="165"/>
   <img src="https://telgou-github-readme-stats.vercel.app/api?username=Telgou&show_icons=true" height="165"/>
 </div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Telgou" alt="Telgou" /></p>
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Telgou" alt="Telgou" />
+</div>
+
 
