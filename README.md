@@ -16,4 +16,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Telgou&show_icons=true&locale=en" alt="Telgou" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Telgou&" alt="Telgou" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Telgou" alt="Telgou" /></p>
