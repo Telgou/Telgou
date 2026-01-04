@@ -18,6 +18,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Telgou" alt="Telgou" /></p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Telgou)
-
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Telgou)](https://git.io/streak-stats)
