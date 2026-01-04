@@ -18,9 +18,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Telgou" alt="Telgou" /></p>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Telgou&layout=compact)
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Telgou&show_icons=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Telgou)
+
 
