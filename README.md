@@ -8,7 +8,7 @@
 
 
 <div align="center">
-  <img src="https://github-profile-trophy-pi-ten.vercel.app/?username=Telgou&theme=darkhub&row=1&column=4&margin-w=12&margin-h=12" />
+  <img src="https://github-profile-trophy-pi-ten.vercel.app/?username=Telgou&theme=darkhub&row=1&column=4&margin-w=12&margin-h=12&rank=-?" />
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
