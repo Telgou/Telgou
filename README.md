@@ -1,10 +1,10 @@
-<h1 align="center">Hey 👋 I Am</h1>
+<h1 align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=Telgou&label=Profile%20views&color=0e75b6&style=flat" alt="Telgou" /> </p>
+ Hey 👋 I Am</h1>
 <h3 align="center">A passionate Fullstack developer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Telgou&label=Profile%20views&color=0e75b6&style=flat" alt="Telgou" /> </p>
 
 <div align="center">
-  <img src="https://github-profile-trophy-pi-ten.vercel.app/?username=Telgou&margin-w=5&theme=darkhub&rank=-?" alt="Trophies" />
+  <img src="https://github-profile-trophy-pi-ten.vercel.app/?username=Telgou&theme=darkhub&margin-w=8&row=1&column=6" />
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
