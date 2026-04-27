@@ -1,13 +1,9 @@
-<table>
-<tr>
-<td>
-<img src="https://komarev.com/ghpvc/?username=Telgou&label=Profile%20views&color=0e75b6&style=flat" />
-</td>
-<td>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Telgou&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
 <h1 align="center">Hey 👋 I Am</h1>
-</td>
-</tr>
-</table>
+
 <h3 align="center">A passionate Fullstack developer</h3>
 
 
