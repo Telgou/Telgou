@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Telgou&label=Profile%20views&color=0e75b6&style=flat" alt="Telgou" /> </p>
 
 <p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=Telgou&margin-w=5&theme=darkhub&rank=-?" alt="Telgou" /></a> </p>
+<img src="https://github-profile-trophy-pi-ten.vercel.app/?username=Telgou&margin-w=5&theme=darkhub&rank=-?" alt="Telgou" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg"  width="40" height="40"/>
