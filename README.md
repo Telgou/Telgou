@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <img src="https://github-profile-trophy-pi-ten.vercel.app/?username=Telgou&theme=darkhub&margin-w=8&row=1&column=6" />
+  <img src="https://github-profile-trophy-pi-ten.vercel.app/?username=Telgou&theme=darkhub&margin-w=8&row=1&column=6&rank=-?" />
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
