@@ -1,21 +1,18 @@
-<table width="100%">
+<table>
 <tr>
-<td align="left" width="30%">
-  <img src="https://komarev.com/ghpvc/?username=Telgou&label=Profile%20views&color=0e75b6&style=flat" />
+<td>
+<img src="https://komarev.com/ghpvc/?username=Telgou&label=Profile%20views&color=0e75b6&style=flat" />
 </td>
-
-<td align="center" width="40%">
-  <h1>Hey 👋 I Am</h1>
+<td>
+<h1 align="center">Hey 👋 I Am</h1>
 </td>
-
-<td width="30%"></td>
 </tr>
 </table>
 <h3 align="center">A passionate Fullstack developer</h3>
 
 
 <div align="center">
-  <img src="https://github-profile-trophy-pi-ten.vercel.app/?username=Telgou&theme=darkhub&margin-w=10&row=1&column=6&rank=-?" />
+  <img src="https://github-profile-trophy-pi-ten.vercel.app/?username=Telgou&theme=darkhub&margin-w=4&row=1&column=6&rank=-?" />
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
