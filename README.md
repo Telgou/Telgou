@@ -7,7 +7,7 @@
 <h3 align="center">A passionate Fullstack developer</h3>
 
 <div align="center">
-  <img src="https://github-profile-trophy-pi-ten.vercel.app/?username=Telgou&theme=darkhub&row=1&column=5&margin-w=8&rank=-?" />
+  <img src="https://github-profile-trophy-pi-ten.vercel.app/?username=Telgou&theme=darkhub&row=1&column=5&margin-w=8&rank=-?&v=1" />
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
